@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homepage"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_network"
+            android:icon="@drawable/iconsnetwork"
+            android:title="Networking" />
+        <item
+            android:id="@+id/nav_security"
+            android:icon="@drawable/iconsprotect"
+            android:title="Security" />
+        <item
+            android:id="@+id/nav_data"
+            android:icon="@drawable/iconsserver"
+            android:title="Data Center" />
+        <item
+            android:id="@+id/nav_monitoring"
+            android:icon="@drawable/connectedpeople"
+            android:title="Monitoring"/>
+        <item
+            android:id="@+id/nav_uc"
+            android:icon="@drawable/iconsconnected"
+            android:title="Unified Comunication"/>
+
+    </group>
+
+
+
+        <item android:title="Profile">
+
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile"
+                    android:title="Profile" />
+                </group>
+            </menu>
+        </item>
+
+
+    <item android:title="Communitcate">
+
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/share"/>
+            <item
+                android:id="@+id/nav_rate"
+                android:title="Rate Us"
+                android:icon="@drawable/starcomment"/>
+        </menu>
+    </item>
+</menu>

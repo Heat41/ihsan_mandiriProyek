@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MITRA SISTEM INFORMATIKA</string>
+    <string name="data_center">DATA CENTER</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="DataCenter">
+        \t Sebuah bisnis biasanya sangat bergantung pada aplikasi, layanan, dan data yang terdapat dalam data center,
+        Menjadikannya titik fokus dan aset penting dalam keperluan sehari-hari. Data center juga berfungsi sebagai principal repositories
+        Untuk segala macam peralatan IT, termasuk server, subsistem penyimpanan,  networking switches, router dan firewall,Serta pemasangan kabel dan physical racks yang digunakan untuk mengatur dan menghubungkan peralatan IT.\n\n
+
+        \t MSI akan bekerja dengan Anda untuk menghadirkan infrastruktur Data Center yang efisien dan gesit, yang memungkinkan
+        Anda memberikan layanan aplikasi dan bisnis yang lebih otomatis dan responsif dari sebelumnya.
+        Solusi kami mencakup bidang-bidang berikut:\n
+        \t > Infrastructure (Standalone dan Cluster Server)\n
+        \t > Virtualization System\n
+        \t > Operating System\n
+        \t > Backup System\n
+        \t > Server Load Balancer\n\n
+
+        \t Untuk kebutuhan server, backup dan Virtualisasi di Data Center Anda,
+        Berikut adalah produk vendor ternama yang kami tawarkan:
+    </string>
+
+    <string name="Monitoring">
+        \t Sistem Monitoring teknologi informasi adalah solusi yang dapat menjadi bagian paling penting dalam sebuah perusahaan.\n\n
+        Kenapa? Monitoring jaringan dapat membantu memperlancar bisnis Anda dan mempermudah pekerjaan tim IT Anda dalam memantau, mendeteksi, Serta menganalisis setiap kejadian-kejadian yang ada pada infrastruktur teknologi informasi perusahaan Anda dan dapat mengambil tindakan tepat untuk melakukan penanganan masalah (troubleshooting).\n\n
+
+        Sistem Monitoring yang kami tawarkan dari monitoring jaringan (Network), Hardware, Aplikasi, Database, hingga Virtualisasi.\n
+
+        \t Untuk membantu membangun sistem monitoring Anda, berikut adalah produk yang kami tawarkan:
+    </string>
+
+    <string name="Uc">
+        \t Salah satu tantangan yang paling krusial untuk bisnis UC adalah peningkatan produktifitas.\n
+        \t Dengan mengadopsi teknologi Unified communication dapat meningkatkan produktifitas tim karena memungkinkan mereka berkolaborasi lebih dekat.\n\n
+        \t Unified communications memungkinkan tim dari berbagai divisi untuk berdiskusi secara realtime melalui sejumlah aplikasi.\n
+        \t Dengan Webmeeting  peserta dapat berkumpul hingga 250 participant dan melakukan diskusi antar divisi maupun antar perusahaan dengan sangat efektif.\n
+        \t Dengan unified communications, menjadikan bisnis anda lebih mutakhir dan memastikan ide-ide dari pengguna dapat terakomodir dengan baik di jaman digital ini.\n
+
+        \t Untuk membantu membangun jaringan komunikasi berbasis IP, berikut adalah produk yang kami tawarkan:
+    </string>
+</resources>
